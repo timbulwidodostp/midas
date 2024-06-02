@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'midas': Summary receiver operating characteristics (SROC) Use midas With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f fagani.ado
+f homogeni.ado
+f lrmat.ado
+f midas.ado
+f midas.sthlp
+f pddami.ado
